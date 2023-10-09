@@ -1,0 +1,1 @@
+git status - shows the state of files in our working directory and staging area
